@@ -5,6 +5,7 @@ int x, n;
 float i, totel, dis1, dis2, dis3, dis4, dis5, discuont_totel, totel1, totel2, totel3, totel4, totel5;
 int main(void)
 {
+    // This is the Operation function 
     while (1)
     {
         printf("Enter name of the piece: ");
